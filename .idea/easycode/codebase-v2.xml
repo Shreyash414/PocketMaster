@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/app/src/androidTest/java/com/example/pocketmaster/ExampleInstrumentedTest.kt;C:/Users/shrey/AndroidStudioProjects/PocketMaster/app/src/main/java/com/example/pocketmaster/ui/dashboard/DashboardFragment.java;C:/Users/shrey/AndroidStudioProjects/PocketMaster/app/src/main/java/com/example/pocketmaster/ui/main/MainActivity.kt;C:/Users/shrey/AndroidStudioProjects/PocketMaster/app/src/test/java/com/example/pocketmaster/ExampleUnitTest.kt;C:/Users/shrey/AndroidStudioProjects/PocketMaster/app/build.gradle.kts;C:/Users/shrey/AndroidStudioProjects/PocketMaster/build.gradle.kts;C:/Users/shrey/AndroidStudioProjects/PocketMaster/settings.gradle.kts" />
+  </component>
+</project>
